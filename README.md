@@ -3,7 +3,9 @@ ReactJS로 영화 웹 서비스 만들기
 This is my first project using React. Go for it!
 
 **Clone coding from**: [ReactJS로 영화 웹 서비스 만들기](https://nomadcoders.co/react-for-beginners/lobby)
+
 **Homepage**: [배포](https://nagneo.github.io/react-for-beginners/)
+
 **Caution**: CSS is not applied
 ___________________________________________________________________
 ## Getting Started with Create React App
