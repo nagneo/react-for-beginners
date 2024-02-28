@@ -1,0 +1,9 @@
+@import "reset.css";
+@import "variables.css";
+
+body {
+  background: var(--global-theme-black-background);
+  color: var(--global-theme-white-font);
+
+  font-family: noto-sans, sans-serif;
+}

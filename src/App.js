@@ -6,6 +6,7 @@ import {
  } from "react-router-dom";
 import Home from "./routes/Home";
 import Detail from "./routes/Detail";
+import globalStyle from "./assets/css/global.css";
 
 function App() {
   return <Router>
