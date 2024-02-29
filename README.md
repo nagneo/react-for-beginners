@@ -1,6 +1,6 @@
 # MVING - 영화 웹서비스 만들기
 
-## 개요
+### 개요
 * 2022년 react를 공부하면서 처음 만들었던 프로젝트 입니다. 
 * SPA로 만들어져 있으며, [open api](https://api.themoviedb.org/)를 사용하여 영화 관련 정보를 보여줍니다.
 * vecel르 배포 하였습니다. [Visit](https://mving.vercel.app/)
@@ -28,3 +28,6 @@ npm install
 npm run dev
 
 ```
+
+### Preview
+![mving_small](https://github.com/nagneo/react-for-beginners/assets/23206933/d689c2d0-1775-4c43-9539-fca2541880a4)
